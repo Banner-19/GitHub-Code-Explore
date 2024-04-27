@@ -1,0 +1,15 @@
+button{
+    border-radius: 20px;
+    font-family: "Lucida Handwriting",sans-serif;
+}
+body {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    font-family: "Lucida Handwriting",sans-serif;
+  }
+input{
+    border-radius: 10px;
+    font-family: "Lucida Handwriting",sans-serif;
+}
